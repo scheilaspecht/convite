@@ -1,0 +1,26 @@
+h2 {color: black;
+}
+
+body {background-color: #00aa77
+}
+
+h3 { border-width:4px;
+	border-style: solid;
+	border-color: #ff0000;
+	padding: 4px;
+	margin: 100px;
+  }
+
+h3 {text-align: center;
+}
+
+#imagem-principal {width: 70%
+}
+
+.midi {
+	color: blue;
+	font-size: 40px;
+}
+.texto-primario {
+	background-color: red;
+}
